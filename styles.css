@@ -89,3 +89,7 @@ ul {
   position: relative;
   top: -32px;
 }
+.link :hover {
+  cursor: pointer;
+  color: #265726;
+}
